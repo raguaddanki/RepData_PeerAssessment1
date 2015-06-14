@@ -1,0 +1,28 @@
+## Loading and preprocessing the data
+Unzip the csv file and 
+Load the file
+
+
+## What is mean total number of steps taken per day?
+Identify the total steps and 
+Plot the total number of steps taken for each day
+
+
+
+## What is the average daily activity pattern?
+Calculate the averages of steps taken for "5" minute interval and 
+Plot the graph between "5-min Interval" and "averages"
+
+
+
+## Imputing missing values
+
+there are a number of days/intervals where there are missing values (coded as NA)
+Identify total number of missing values in the dataset and 
+missing values are filled in with mean value and 
+filled data set is used tp make a histogram of the total number of steps taken each day and the mean and median total number of steps.
+
+
+## Are there differences in activity patterns between weekdays and weekends?
+new factor variable is created in the dataset with two levels â âweekdayâ and âweekendâ indicating whether a given date is a weekday or weekend day.  and  
+panel plot containing a time series plot (i.e. type = "l") of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all weekday days or weekend days (y-axis) is created
